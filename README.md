@@ -7,7 +7,7 @@ Header Row
 <!-- 
 Left Header
 -->
-<th> 
+<th valign="top"> 
 Brandon L. Deriso
 </th>
 <!-- 
@@ -15,7 +15,7 @@ Right Header
 -->
 <th align="left">
 Mission Statement:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 </th>
 
 </tr>
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Content Row
 -->
 
-<td>
+<td valign="top">
 <!-- 
 Left Content Column
 -->
