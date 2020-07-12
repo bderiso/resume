@@ -1,2 +1,87 @@
-# resume
-My personal job history
+<table>
+<!-- 
+Header Row
+-->
+<tr>
+<!-- 
+Left Header
+-->
+<th> 
+Brandon L. Deriso
+</th>
+<!-- 
+Right Header
+-->
+<th> 
+Mission Statement:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+</th>
+
+</tr>
+
+<tr>
+<!-- 
+Content Row
+-->
+
+<td>
+<!-- 
+Left Content Column
+-->
+
+##### Systems Administrator
+
+###### Phone
+504-919-6681
+
+###### E-mail
+bderiso@gmail.com
+
+###### Resume
+[View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
+
+## Hard Skills
+LINUX Administration
+
+JIRA Administration
+
+
+## Soft Skills
+Interpersonal Skills
+
+Collaboration
+
+Troubleshooting
+
+Problem Solving
+
+</td>
+
+<td>
+<!-- 
+Right Content Column
+-->
+
+## Experience
+
+##### Job 0
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+##### Job 1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+##### Job 2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+---
+## Education
+
+Loyola University - 2003-2007
+
+---
+## Awards
+
+
+</td>
+</tr>
+</table
