@@ -55,7 +55,7 @@ OpenStack
 DNS
 Git
 Open Directory
-FreeIPA(https://en.wikipedia.org/wiki/FreeIPA)
+[FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)
 FreePBX
 Asterix
 
