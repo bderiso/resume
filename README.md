@@ -79,10 +79,10 @@ Mar 2019 - Now
 
 ##### mumms Software
 ###### Systems Administrator
-Proceeding a sebattical of sorts (during which I worked to refresh my AV skills and persue independant education & business endeavors), I was welcomed back to mumms to take the reigns as a full Systems Administrator. I returned ot my role as deployment lead and embarked on overhauling our notification system, as well as working more closely with the engineering & management teams to advance company goals.
+Following a sebattical of sorts (during which I worked to refresh my AV skills and persue independant education & business endeavors), I was welcomed back to mumms to take the reigns as a full Systems Administrator. I returned ot my role as deployment lead and embarked on overhauling our notification system, as well as working more closely with the engineering & management teams to advance company goals.
 
 ###### Junior Systems Administrator
-After serving on the IT support team for several years and increasing myknowledge and responsibilities along the way, I was promoted to this position to work directly with the senior sysadmin team to support application deployment using version control (git, svn, cvs), cfengine & bash scripting.
+After serving on the IT support team for two years and increasing myknowledge and responsibilities along the way, I was promoted to this position to work directly with the senior sysadmin team to support application deployment using version control (git, svn, cvs), cfengine & bash scripting.
 I was also tasked with software-developer support such as maintaince of devlopment, staging & production servers, access control using LDAP & cfengine-managed sudoers files.
 Additionally several server operations & maintenance responsibilities including updating and maintaining DNS, firewall, VPN, and PBX systems (to name a few).
 
