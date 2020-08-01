@@ -42,9 +42,22 @@ bderiso@gmail.com
 [View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
-LINUX Administration
-
-JIRA Administration
+LINUX
+MacOS
+Windows (Server & Personal)
+JIRA
+[CFEngine](https://en.wikipedia.org/wiki/CFEngine)
+Microsoft Office 365
+Nagios
+Kubernetes
+OpenShift
+OpenStack
+DNS
+Git
+Open Directory
+FreeIPA(https://en.wikipedia.org/wiki/FreeIPA)
+FreePBX
+Asterix
 
 
 ## Soft Skills
