@@ -133,18 +133,12 @@ Nov 2006 - May 2013
     
 ##### Harrah's Casino - AV Technician
 I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitorsystems setup and operation for performances & presentations at various
-venues located across the campus including: a 500+ seat theatre, a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several hotel ballrooms & meeting spaces. I fully renovated, updated and maintained the DSP system for the nightclub
+venues located across the campus including: a 500+ seat theatre, a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several hotel ballrooms & meeting spaces. 
+I fully renovated, updated and maintained the DSP system for the nightclub
 using London Architect and BSS Soundweb software/hardware. As part of this project I performed design, maintaining, & trouble-shooting for a double-NAT network using multiple routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio devices) and I configured this system for remote access and management using Team Viewer & Microsoft Remote Desktop.
-* Specialist for Digital Audio consoles use on-site.
-Responsible for maintainance & installation of distributed audio systems
-across campus including: Overhead PA speakers, Multiple input locations for PA mics and pulling cable through in-ceiling conduit.
-* Setup & tuning of portable TV systems, projectors & viewing screens.
-* Troubleshooting & support for the hotel guests' in-room TV content & movie
-ordering system
-* Setting up one-time-use WiFi/Ethernet Networks as needed for conventions,
-etc.
-General Crew labor for certain off-site shows (Convention Center, New
-Orleans Arena, etc.)
+Some of my reposibilities included: specializing in Digital Audio consoles use on-site, maintainance & installation of distributed audio systems
+across campus, setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' in-room TV content & movie ordering system, setting up one-time-use WiFi/Ethernet Networks as needed for conventions,etc.
+I occaisonally also had the opputunity to work as general crew labor for certain off-site shows (Convention Center, New Orleans Arena, etc.)
 
 </td>
 </tr>
