@@ -70,13 +70,50 @@ Right Content Column
 <tr>
 <td valign="top">
   
-From Date - To Date
+May 2013 - March 2017, March 2019 - Current
 
 </td>
 <td>
 
-##### Job 0
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### mumms Software
+###### Systems Administrator
+Proceeding a sebattical of sorts (during which I worked to refresh my AV skills and persue independant education & business endeavors), I was welcomed back to mumms to take the reigns as a full Systems Administrator. I returned ot my role as deployment lead and embarked on overhauling our notification system, as well as working more closely with the engineering & management teams to advance company goals.
+
+###### Junior Systems Administrator
+After serving on the IT support team for several years and increasing myknowledge and responsibilities along the way, I was promoted to this position to work directly with the senior sysadmin team to support application deployment using version control (git, svn, cvs), cfengine & bash scripting.
+I was also tasked with software-developer support such as maintaince of devlopment, staging & production servers, access control using LDAP & cfengine-managed sudoers files.
+Additionally several server operations & maintenance responsibilities including updating and maintaining DNS, firewall, VPN, and PBX systems (to name a few).
+
+###### IT Technician
+I was responsible for end-user hardware & software support as well as maintenance and deployment for a growing fleet of Apple Mac OS X desktops
+& laptops.
+I handled IT aspects of initial employee on-boarding and low level client
+onboarding. These tasks included cloning computers from a standard system
+images which I developed with my manager and peers, LDAP account creation
+using WorkGroup Manager in OS X Server. I also performed basic database
+management to allow new customers & developers to get started using our
+systems.
+My ability to see beyond employee problems & get at their underlying needs & blockages led to a reputation for making complex issues easier to deal with, as well as being able to fix issues quickly.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top">
+
+March 2017 - March 2019
+
+</td>
+
+<td>
+
+##### National WWII Museum - AV Technician
+This position is responsible for maintenance & repair of the AV aspects of the interactive exhibits across the campus, including: A "4D" projection movie theater with moving practical effects, a fully interactive submarine simulation, interactive touchscreen kiosks with sound & video elements, and various other sound & visual exhibits using loudspeakers and video projection. Technicians are also tasked with supporting 3rd party event rentals of our
+venues, typically including mics and video routing & projection.
+
+My IT & AV background has allowed me to quickly learn interconnected systems (such as our mobile video live-streaming rig) and even become a bit of a go-to Subject Matter Expert to my coworkers. As an experienced engineer with very good interpersonal skills, I developed a reputation for being easy to work with while delivering excellent AV support.
 
 </td>
 </tr>
@@ -86,31 +123,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <tr>
 <td valign="top">
   
-From Date - To Date
-
-</td>
-
-<td>
-
-##### Job 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td valign="top">
-  
-From Date - To Date
+November 2006 - May 2013
 
 </td>
 
 <td>
     
-##### Job 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### Harrah's Casino - AV Technician
+I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitorsystems setup and operation for performances & presentations at various
+venues located across the campus including: a 500+ seat theatre, a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several hotel ballrooms & meeting spaces. I fully renovated, updated and maintained the DSP system for the nightclub
+using London Architect and BSS Soundweb software/hardware. As part of this project I performed design, maintaining, & trouble-shooting for a double-NAT network using multiple routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio devices) and I configured this system for remote access and management using Team Viewer & Microsoft Remote Desktop.
+* Specialist for Digital Audio consoles use on-site.
+Responsible for maintainance & installation of distributed audio systems
+across campus including: Overhead PA speakers, Multiple input locations for PA mics and pulling cable through in-ceiling conduit.
+* Setup & tuning of portable TV systems, projectors & viewing screens.
+* Troubleshooting & support for the hotel guests' in-room TV content & movie
+ordering system
+* Setting up one-time-use WiFi/Ethernet Networks as needed for conventions,
+etc.
+General Crew labor for certain off-site shows (Convention Center, New
+Orleans Arena, etc.)
 
 </td>
 </tr>
