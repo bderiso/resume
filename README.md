@@ -70,7 +70,9 @@ Right Content Column
 <tr>
 <td valign="top">
   
-May 2013 - March 2017, March 2019 - Current
+May 2013 - Mar 2017
+
+Mar 2019 - Now
 
 </td>
 <td>
@@ -103,7 +105,7 @@ My ability to see beyond employee problems & get at their underlying needs & blo
 <tr>
 <td valign="top">
 
-March 2017 - March 2019
+Mar 2017 - Mar 2019
 
 </td>
 
@@ -123,7 +125,7 @@ My IT & AV background has allowed me to quickly learn interconnected systems (su
 <tr>
 <td valign="top">
   
-November 2006 - May 2013
+Nov 2006 - May 2013
 
 </td>
 
