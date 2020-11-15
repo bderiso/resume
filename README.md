@@ -88,7 +88,7 @@ May 2013 - Mar 2017
 Mar 2019 - Now
 
 </td>
-<td>
+<td valign="top">
 
 ##### mumms Software
 ###### Systems Administrator
@@ -112,7 +112,7 @@ Mar 2017 - Mar 2019
 
 </td>
 
-<td>
+<td valign="top">
 
 ##### National WWII Museum - AV Technician
 This position is responsible for maintenance & repair of the AV aspects of the interactive exhibits across the campus, including: A "4D" projection movie theater with moving practical effects, a fully interactive submarine simulation, interactive touchscreen kiosks with sound & video elements, and various other sound & visual exhibits using loudspeakers and video projection. Technicians are also tasked with supporting 3rd party event rentals of our
@@ -132,7 +132,7 @@ Nov 2006 - May 2013
 
 </td>
 
-<td>
+<td valign="top">
     
 ##### Harrah's Casino - AV Technician
 I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitor systems setup and operation for performances & presentations at various
