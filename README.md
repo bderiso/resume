@@ -80,7 +80,7 @@ Right Content Column
 
 <table>
 <tr>
-<td valign="top">
+<td>
   
 ##### mumms Software
 May 2013 - Mar 2017, Mar 2019 - Now
@@ -104,7 +104,7 @@ I was responsible for end-user hardware & software support as well as maintenanc
 
 <table>
 <tr>
-<td valign="top">
+<td>
 
 ##### National WWII Museum
 Mar 2017 - Mar 2019
