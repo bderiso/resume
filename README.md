@@ -79,7 +79,7 @@ Right Content Column
 ## Experience
 
 <table>
-
+<tr>
 <tr>
 <td valign="top">
   
@@ -142,8 +142,9 @@ using London Architect and BSS SoundWeb software/hardware. As part of this proje
 Some of my responsibilities included: specializing in Digital Audio consoles use on-site, maintenance & installation of distributed audio systems
 across campus, setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' in-room TV content & movie ordering system, setting up one-time-use WiFi/Ethernet Networks as needed for conventions, etc.
 I occasionally also had the opportunity to work as general crew labor for certain off-site shows (Convention Center, New Orleans Arena, etc.)
-
 </td>
+</td>
+</tr>
 </tr>
 </table>
 
