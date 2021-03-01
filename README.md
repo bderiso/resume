@@ -39,48 +39,28 @@ Brandon.Lee@Deriso.org
 [View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
-LINUX
-
-MacOS
-
-Windows (Server & Personal)
-
-JIRA
-
-[CFEngine](https://en.wikipedia.org/wiki/CFEngine)
-
-Microsoft Office 365
-
-Nagios
-
-Kubernetes
-
-OpenShift
-
-OpenStack
-
-DNS
-
-Git
-
-Open Directory
-
-[FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)
-
-FreePBX
-
-Asterix
-
+LINUX<br>
+MacOS<br>
+Windows (Server & Personal)<br>
+JIRA<br>
+[CFEngine](https://en.wikipedia.org/wiki/CFEngine)<br>
+Microsoft Office 365<br>
+Nagios<br>
+Kubernetes<br>
+OpenShift<br>
+OpenStack<br>
+DNS<br>
+Git<br>
+Open Directory<br>
+[FreeIPA](https://en.wikipedia.org/wiki/FreeIPA<br>
+FreePBX<br>
+Asterisk<br>
 
 ## Soft Skills
-Interpersonal Skills
-
-Collaboration
-
-Troubleshooting
-
-Problem Solving
-
+Interpersonal Skills<br>
+Collaboration<br>
+Troubleshooting<br>
+Problem Solving<br>
 </td>
 
 <td>
