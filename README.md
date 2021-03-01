@@ -30,9 +30,10 @@ Content Row
 Left Content Column
 -->
 
-##### IT/SysAdmin
-###### E-mail<br>Brandon.Lee<br>@Deriso.org
-###### Resume<br>[View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
+##### IT / SysAdmin
+eMail<br>Brandon.Lee@Deriso.org
+
+Resume<br>[View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
 LINUX<br>
