@@ -30,8 +30,8 @@ Content Row
 Left Content Column
 -->
 
-##### Systems Administrator
-###### E-mail<br>Brandon.Lee@Deriso.org
+##### IT/SysAdmin
+###### E-mail<br>Brandon.Lee<br>@Deriso.org
 ###### Resume<br>[View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
