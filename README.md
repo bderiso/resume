@@ -31,7 +31,7 @@ Left Content Column
 -->
 
 ##### IT / SysAdmin
-[Email](mailto:Brandon.Lee@Deriso.org)
+[Email](mailto:Brandon.Lee@Deriso.org)<br>
 [Resume on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
