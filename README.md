@@ -57,6 +57,11 @@ Troubleshooting<br>
 Problem Solving<br>
 Interpersonal Skills<br>
 </td>
+  <style>
+   p.ex1 {
+     max-width: 50%;
+   }
+  </style>
 
 <td>
 <!-- 
