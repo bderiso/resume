@@ -80,8 +80,8 @@ May 2013 - Mar 2017, Mar 2019 - Now
 <td>
 
 ###### Systems Administrator
-Following a sabbatical of sorts (during which I worked to refresh my AV skills and pursue independent education & business endeavors), <br>
-I was welcomed back to mumms to take the reins as a full Systems Administrator.  <br>
+Following a sabbatical of sorts (during which I worked to refresh my AV skills and pursue independent education & <br>
+business endeavors), I was welcomed back to mumms to take the reins as a full Systems Administrator.  <br>
 I returned to my role as deployment lead and embarked on overhauling our notification system, <br>
 as well as working more closely with the engineering & management teams to advance company goals.
 
