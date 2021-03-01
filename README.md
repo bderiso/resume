@@ -15,7 +15,7 @@ Right Header
 -->
 <th align="left">
 Mission Statement:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I will provide skills & absorb knowledge to make myself an asset to any project I am involved with.
 </th>
 
 </tr>
@@ -40,20 +40,35 @@ Brandon.Lee@Deriso.org
 
 ## Hard Skills
 LINUX
+
 MacOS
+
 Windows (Server & Personal)
+
 JIRA
+
 [CFEngine](https://en.wikipedia.org/wiki/CFEngine)
+
 Microsoft Office 365
+
 Nagios
+
 Kubernetes
+
 OpenShift
+
 OpenStack
+
 DNS
+
 Git
+
 Open Directory
+
 [FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)
+
 FreePBX
+
 Asterix
 
 
@@ -207,7 +222,9 @@ Loyola University - 2003-2007
 ---
 ## Awards
 Harrah's RockStar Employee
+
 mumms Employee Spotlight
+
 WWII Museum President's Award Nominee
 
 </td>
