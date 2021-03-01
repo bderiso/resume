@@ -64,12 +64,11 @@ Right Content Column
 -->
 
 ## Experience
-
 <table>
 <tr>
 <td>
-  
-##### mumms Software
+
+mumms Software<br>
 May 2013 - Mar 2017, Mar 2019 - Now
 </td>
 </tr>
@@ -82,7 +81,6 @@ Following a sabbatical of sorts (during which I worked to refresh my AV skills a
 business endeavors), I was welcomed back to mumms to take the reins as a full Systems Administrator.  <br>
 I returned to my role as deployment lead and embarked on overhauling our notification system, <br>
 as well as working more closely with the engineering & management teams to advance company goals.
-
 ###### Junior Systems Administrator
 After serving on the IT support team for two years and increasing my knowledge and responsibilities along the way, <br>
 I was promoted to this position to work directly with the senior sysadmin team to support application deployment <br>
@@ -102,12 +100,11 @@ to fix issues quickly.
 </td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td>
 
-##### National WWII Museum
+National WWII Museum<br>
 Mar 2017 - Mar 2019
 </td>
 </tr>
@@ -131,7 +128,7 @@ very good interpersonal skills, I developed a reputation for being easy to work 
 <table>
 <td> 
   
-##### Harrah's Casino
+Harrah's Casino<br>
 Nov 2006 - May 2013 
 </td>
 </tr>
