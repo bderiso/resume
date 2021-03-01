@@ -39,7 +39,7 @@ MacOS<br>
 Windows (Server & Personal)<br>
 JIRA<br>
 [CFEngine](https://en.wikipedia.org/wiki/CFEngine)<br>
-Microsoft Office 365<br>
+Office 365<br>
 Nagios<br>
 Kubernetes<br>
 OpenShift<br>
