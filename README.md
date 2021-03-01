@@ -15,7 +15,7 @@ Right Header
 -->
 <th align="left">
 Mission Statement:
-I will provide skills & absorb knowledge to make myself an asset to any project I am involved with.
+I will provide skills & absorb knowledge to become an asset in any project with which I'm involved.
 </th>
 
 </tr>
