@@ -35,9 +35,6 @@ Left Content Column
 ###### E-mail
 Brandon.Lee@Deriso.org
 
-###### Phone
-504-919-6681
-
 ###### Resume
 [View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
