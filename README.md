@@ -145,8 +145,8 @@ for performances & presentations at various venues located across the campus inc
 a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several <br>
 hotel ballrooms & meeting spaces.
 I fully renovated, updated and maintained the DSP system for the nightclub using <br>
-London Architect and BSS SoundWeb software/hardware. As part of this project I designed & maintained a double-NAT network <br>
-using multiple routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio <br>
+London Architect and BSS SoundWeb software/hardware. As part of this project I designed & maintained a double-NAT <br>
+network with routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio <br>
 devices). I also configured remote access using Microsoft Remote Desktop.<br>
 Some of my responsibilities included:  Digital Audio specialist, maintenance & installation of distributed audio systems,<br>
 setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' <br>
