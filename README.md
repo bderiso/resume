@@ -14,7 +14,7 @@ Brandon L. Deriso
 Right Header
 -->
 <th align="left">
-Mission Statement:
+Mission Statement:<br>
 I will provide skills & absorb knowledge to become an asset in any project with which I'm involved.
 </th>
 
