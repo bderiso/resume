@@ -32,10 +32,10 @@ Left Content Column
 
 ##### Systems Administrator
 
-###### E-mail
+###### E-mail<br>
 Brandon.Lee@Deriso.org
 
-###### Resume
+###### Resume<br>
 [View on GitHub](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
@@ -52,7 +52,7 @@ OpenStack<br>
 DNS<br>
 Git<br>
 Open Directory<br>
-[FreeIPA](https://en.wikipedia.org/wiki/FreeIPA<br>
+[FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)<br>
 FreePBX<br>
 Asterisk<br>
 
