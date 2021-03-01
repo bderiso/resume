@@ -54,10 +54,10 @@ FreePBX<br>
 Asterisk<br>
 
 ## Soft Skills
-Interpersonal Skills<br>
 Collaboration<br>
 Troubleshooting<br>
 Problem Solving<br>
+Interpersonal Skills<br>
 </td>
 
 <td>
