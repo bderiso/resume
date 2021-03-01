@@ -142,15 +142,17 @@ Nov 2006 - May 2013
 <td>
   
 ###### AV Technician
-I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitor systems setup and operation for performances & presentations at various<br>
-venues located across the campus including: a 500+ seat theatre, a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several <br>
-hotel ballrooms & meeting spaces. <br>
-I fully renovated, updated and maintained the DSP system for the nightclub using London Architect and BSS SoundWeb software/hardware. As part of this project I  <br>
-designed & maintained a double-NAT network using multiple routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio <br>
+I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitor systems setup and operation<br>
+for performances & presentations at various venues located across the campus including: a 500+ seat theatre, <br>
+a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several <br>
+hotel ballrooms & meeting spaces.
+I fully renovated, updated and maintained the DSP system for the nightclub using London Architect and <br>
+BSS SoundWeb software/hardware. As part of this project I designed & maintained a double-NAT network using <br>
+multiple routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio <br>
 devices). I also configured remote access using Microsoft Remote Desktop.<br>
-Some of my responsibilities included:  Digital Audio specialist, maintenance & installation of distributed audio systems, setup & tuning of portable TV systems, <br>
-projectors & viewing screens, troubleshooting & support for the hotel guests' in-room TV content & movie ordering system, setting up adhoc WiFi/Ethernet Networks<br>
-as needed for conventions, etc.<br>
+Some of my responsibilities included:  Digital Audio specialist, maintenance & installation of distributed audio systems,<br>
+setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' <br>
+in-room TV content & movie ordering system, setting up adhoc WiFi/Ethernet Networks as needed for conventions, etc.<br>
 I also worked as general crew labor for off-site shows (Convention Center, New Orleans Arena, etc.)
 </td>
 </tr>
