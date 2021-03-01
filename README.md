@@ -1,12 +1,3 @@
-<html><body>
-{::options parse_block_html="true" /}
-
-<style>
-  p.ex1 {
-    max-width: 75%;
-  }
-</style>
-
 <table>
 <!-- 
 Header Row
@@ -172,5 +163,4 @@ mumms Employee Spotlight<br>
 WWII Museum President's Award Nominee
 </td>
 </tr>
-</table
-</body></html>
+</table>
