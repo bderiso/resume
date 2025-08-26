@@ -36,15 +36,15 @@ Left Content Column
 LINUX<br>
 MacOS<br>
 Windows (Server & Personal)<br>
-JIRA<br>
+JIRA Project Management<br>
 [CFEngine](https://en.wikipedia.org/wiki/CFEngine)<br>
-Office 365<br>
+Microsoft 365<br>
 Nagios<br>
 Kubernetes<br>
 OpenShift<br>
 OpenStack<br>
-DNS<br>
-Git<br>
+[BIND DNS](https://en.wikipedia.org/wiki/BIND)<br>
+Git Source Control<br>
 Open Directory<br>
 [FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)<br>
 FreePBX<br>
