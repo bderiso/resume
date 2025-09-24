@@ -33,7 +33,7 @@ Left Content Column
 [Email](mailto:Brandon.Lee@Deriso.org), [Resume](https://github.com/bderiso/resume/blob/master/README.md)
 
 ## Hard Skills
-LINUX
+Linux
 MacOS
 Windows (Server & Personal)
 JIRA Project Management
@@ -68,7 +68,7 @@ Right Content Column
 <td>
 
 mumms Software
-May 2013 - Mar 2017, Mar 2019 - Now
+May 2013 - Mar 2017, Mar 2019 - Present
 </td>
 </tr>
 <tr>
