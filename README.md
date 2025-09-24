@@ -76,7 +76,8 @@ May 2013 - Mar 2017, Mar 2019 - Now
 <td>
 
 ###### Systems Administrator
-Following a sabbatical of sorts (during which I worked to refresh my AV skills and pursue independent education & business endeavors), I was welcomed back to mumms to take the reins as a full Systems Administrator. 
+Following a sabbatical of sorts (during which I worked to refresh my AV skills and \
+pursue independent education & business endeavors), I was welcomed back to mumms to take the reins as a full Systems Administrator. 
 I returned to my role as deployment lead and embarked on overhauling our notification system, as well as working more closely with the engineering & management teams to advance company goals.
 ###### Junior Systems Administrator
 After serving on the IT support team for two years and increasing my knowledge and responsibilities along the way, I was promoted to this position to work directly with the senior sysadmin team to support application deployment using version control (git, svn, cvs), cfengine & bash scripting.
