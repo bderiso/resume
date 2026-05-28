@@ -36,19 +36,18 @@ Left Content Column
 Linux
 MacOS
 Windows (Server & Personal)
-JIRA Project Management
-[CFEngine](https://en.wikipedia.org/wiki/CFEngine)
 Microsoft 365
-Nagios
-Kubernetes
-OpenShift
-OpenStack
+[Jira Project Management](https://www.atlassian.com/software/jira)
+[CFEngine](https://en.wikipedia.org/wiki/CFEngine)
+[Nagios](https://www.nagios.org)
+[Kubernetes](https://kubernetes.io)
+[OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+[OpenStack](https://www.openstack.org)
 [BIND DNS](https://en.wikipedia.org/wiki/BIND)
-Git Source Control
-Open Directory
+[Git Source Control](https://git-scm.com)
 [FreeIPA](https://en.wikipedia.org/wiki/FreeIPA)
-FreePBX
-Asterisk
+[FreePBX](https://www.freepbx.org)
+[Asterisk](https://www.asterisk.org)
 
 ## Soft Skills
 Collaboration
@@ -122,7 +121,7 @@ Nov 2006 - May 2013
 ###### AV Technician
 I was 1 of 3 Full-time Audio Engineers responsible for all Front-Of-House & Monitor systems setup and operation for performances & presentations at various venues located across the campus including: a 500+ seat theatre, a nightclub / bar with 2 stages and a DJ booth, The "Fulton Square" outdoor venue, and several hotel ballrooms & meeting spaces.
 I fully renovated, updated and maintained the DSP system for the nightclub using London Architect and BSS SoundWeb software/hardware. As part of this project I designed & maintained a double-NAT network with routers, switches & peripherals (including desktop computers, laptops, tablets & network-enabled audio devices). I also configured remote access using Microsoft Remote Desktop.
-Some of my responsibilities included:  Digital Audio specialist, maintenance & installation of distributed audio systems,setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' in-room TV content & movie ordering system, setting up adhoc WiFi/Ethernet Networks as needed for conventions, etc.
+Some of my responsibilities included:  Digital Audio specialist, maintenance & installation of distributed audio systems, setup & tuning of portable TV systems, projectors & viewing screens, troubleshooting & support for the hotel guests' in-room TV content & movie ordering system, setting up adhoc WiFi/Ethernet Networks as needed for conventions, etc.
 I also worked as general crew labor for off-site shows (Convention Center, New Orleans Arena, etc.)
 </td>
 </tr>
@@ -134,9 +133,9 @@ Loyola University - 2003-2007
 
 ---
 ## Awards
-Harrah's RockStar Employee
 mumms Employee Spotlight
 WWII Museum President's Award Nominee
+Harrah's RockStar Employee
 </td>
 </tr>
 </table>
